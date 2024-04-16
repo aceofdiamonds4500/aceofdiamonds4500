@@ -22,8 +22,8 @@
   - Ehhh.
 - C: 20%
   - Pretty simple to learn the syntax, pretty hard to learn how to properly write it.
-- C# and C++: 0 - 1%
-  - Do not rely on me to learn these in any timely fashion.
+- C# and C++: 88%
+  - C# going well, C++ as well 
 
 
 
