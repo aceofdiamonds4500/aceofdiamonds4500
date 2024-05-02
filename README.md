@@ -8,8 +8,9 @@
 - Can navigate Vim pretty well
 - Can successfully boot Linux onto laptops now
   - Kali, Mint, and Ubuntu so far
-- ``print("Hello world!")``
+- markdown specialist (trust me)
 - Well versed in Debian commands
+- brainiac at low-level programming and object-oriented programming
 
 ### Languages (and progress in learning them)
 - Python: 60% 
