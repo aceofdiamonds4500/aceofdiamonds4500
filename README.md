@@ -1,30 +1,29 @@
-## Ace's Profile
-### Goals:
-- To work on coding in my spare time
+# Nick's Profile
+## Goals:
+- Be the best vice president ACM has seen
 - To increase my productivity and build my portfolio
-- To learn more about coding as I progress
+- Design an operating system for my personal uses
+- Program a compiler
 
-### Skills!
-- Can navigate Vim pretty well
-- Can successfully boot Linux onto laptops now
-  - Kali, Mint, and Ubuntu so far
-- markdown specialist (trust me)
-- Well versed in Debian commands
-- brainiac at low-level programming and object-oriented programming
+## Skills!
+- Vim user
+- Capable of navigating an EFI system to boot into Linux (Arch, Kali, etc.) and familiar with many Linux commands
+- Specialized in Microsoft Office tools as well as Markdown 
+- Adept at learning low-level and object-oriented programming
 
-### Languages (and progress in learning them)
-- Python: 60% 
+## Languages (and progress in learning them)
+- Python:
   - learned the basics, know how it works, can use it primarily
-- Java: 55% 
-  - not very proficient but can relearn it and go from there
-- MARIE Assembly: 99%
-  - pretty sure of how this one works, but completely useless in modern usage
-- nasm: 2%
-  - Ehhh.
-- C: 20%
-  - Pretty simple to learn the syntax, pretty hard to learn how to properly write it.
-- C# and C++: 88%
-  - C# going well, C++ as well 
+- Java:
+  - Very simple to understand, but slow. I don't plan on using this but I understand the tools and polymorphism.
+- IBM Assembly: 
+  - Pretty sure of how this one works, but it's mainly a learning tool since I have no access to a Vista TN3270 emu anymore.
+- nasm: 
+  - I understand how registers work. Working on manipulating data in said registers, though.
+- C and C++:
+  - Not memory-safe just yet, but I understand object-oriented principles as well as creating efficent functions.
+- C#: 
+  - Created a videogame project for my class in Object-oriented Design, I researched quite a few design patterns and can navigate the language well.
 
 
 
