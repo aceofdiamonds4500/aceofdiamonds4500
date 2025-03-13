@@ -16,6 +16,7 @@
 - Visual Basic applications for my GUI class
 - [Number Format Game for ACM](https://github.com/aceofdiamonds4500/Nicks-Arduino-Code/tree/main/NumberFormatGame)
 
+## Chart of Language
 | Languages I Use | Ranking/10 | Desc   |
 | --------        | -------- | -------- |
 | Python          | 7/10     | I've learned many use cases for Python, and if I need to use it I can implement it in my code as needed. |
