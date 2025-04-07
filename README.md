@@ -1,7 +1,9 @@
-# Nick's Profile
+# The Vault
+<img alt="Welcome" src="https://github.com/aceofdiamonds4500/aceofdiamonds4500/blob/main/Screenshot_07-Apr_10-25-36_16078.png">
+
 ## Goals:
 - Be the best vice president ACM has seen
-- To increase my productivity and build my portfolio
+- Make an impact
 - Design an x86 operating system for my personal uses
 - Program a compiler
 
