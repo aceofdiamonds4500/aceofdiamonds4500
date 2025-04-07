@@ -30,6 +30,7 @@
 | C#              | 9/10     | Surprisingly versatile and with an easy-to-understand syntax, great for my console applications. |
 | Visual Basic    | 6/10     | Way too much boilerplate. It's only saving grace is the visual editor in Visual Studio being incredibly simple. |
 
+<img alt="black mage" height=72 width=50 src="https://github.com/aceofdiamonds4500/aceofdiamonds4500/blob/main/mage.gif" align=right>
 
 <!---
 aceofdiamonds4500/aceofdiamonds4500 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
