@@ -18,6 +18,7 @@
 - Adept at learning low-level and object-oriented programming
 
 ## Recent Projects (sorted by latest to earliest)
+- Bash script to display percentage used of both RAM and swap
 - SQLite database written in C for my Software Engineering course project
 - Custom Game Engine in SDL
 - My Own Procedural Language
